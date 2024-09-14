@@ -15,3 +15,5 @@
 **Fonte de dados**:
 <br/>
 Portal de dados abertos: [Cadastro Nacional da Pessoa Jurídica - CNPJ](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj); mais especificamente, foram usados os dados de [agosto de 2024](https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-08/).
+<br/>
+Dicionário de dados: https://www.gov.br/receitafederal/dados/cnpj-metadados.pdf
